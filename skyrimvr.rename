@@ -39,10 +39,9 @@
 13625 RE::TESDataHandler::CreateReferenceAtLocation
 13657 RE::TESDataHandler::LoadScripts
 13789 RE::Sky::GetSingleton
-13855,0x14017a700  bool a_lock)
-13857 RE::TESFile::CloseTES(bool a_force)
+13857 RE::TESFile::CloseTES(bool)
 13889 FDGE::Skyrim::SkipGrup
-13894 RE::TESFile::SeekNextForm(bool a_skipIgnored)
+13894 RE::TESFile::SeekNextForm(bool)
 13897 RE::TESFile::GetFormType
 13898 RE::TESFile::Seek
 13902 RE::TESFile::GetCurrentSubRecordType
